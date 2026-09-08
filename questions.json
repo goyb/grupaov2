@@ -1,0 +1,5457 @@
+[
+  {
+    "question": "Qual clube venceu a Champions League de 2010?",
+    "answer": "Inter de Milão",
+    "options": [
+      "Manchester United",
+      "Inter de Milão",
+      "Bayern de Munique",
+      "Barcelona"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Bayern de Munique?",
+    "answer": "Munique",
+    "options": [
+      "Lisboa",
+      "Madri",
+      "Londres",
+      "Munique"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção é conhecida como La Roja?",
+    "answer": "Espanha",
+    "options": [
+      "México",
+      "Chile",
+      "Espanha",
+      "Peru"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual jogador francês foi eleito melhor jogador jovem da Copa de 2018?",
+    "answer": "Kylian Mbappé",
+    "options": [
+      "Paul Pogba",
+      "Olivier Giroud",
+      "Antoine Griezmann",
+      "Kylian Mbappé"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual é a capital do país cuja seleção venceu a Copa do Mundo de 2010?",
+    "answer": "Madri",
+    "options": [
+      "Paris",
+      "Madri",
+      "Roma"
+    ],
+    "category": "Futebol e países"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 1 vez(es) e pertence à seleção da France, sendo associado à conquista de 1998?",
+    "answer": "Thierry Henry",
+    "options": [
+      "Cristiano Ronaldo",
+      "Neymar",
+      "Thierry Henry",
+      "Lionel Messi"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Neymar?",
+    "answer": "Barcelona",
+    "options": [
+      "Santos",
+      "Chelsea",
+      "PSG",
+      "Barcelona"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 0 vez(es) e pertence à seleção da Portugal, sendo associado à conquista de —?",
+    "answer": "Cristiano Ronaldo",
+    "options": [
+      "Neymar",
+      "Cristiano Ronaldo",
+      "Lionel Messi"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Maradona?",
+    "answer": "Argentina",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2023?",
+    "answer": "Manchester City",
+    "options": [
+      "Bayern de Munique",
+      "Real Madrid",
+      "Manchester City",
+      "Inter de Milão"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Quem recebeu o cartão vermelho na final da Copa de 2006?",
+    "answer": "Zinedine Zidane",
+    "options": [
+      "Zinedine Zidane",
+      "Marco Materazzi",
+      "Andrea Pirlo",
+      "Fabio Cannavaro"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual cartão normalmente indica advertência?",
+    "answer": "Amarelo",
+    "options": [
+      "Branco",
+      "Azul",
+      "Amarelo",
+      "Vermelho"
+    ],
+    "category": "Regras"
+  },
+  {
+    "question": "Em qual clube Virgil van Dijk jogou antes do Liverpool?",
+    "answer": "Southampton",
+    "options": [
+      "Manchester City",
+      "Tottenham",
+      "Southampton",
+      "Celtic"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube soma 6 conquista(s) da principal competição europeia de clubes?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Bayern de Munique",
+      "PSG",
+      "Borussia Dortmund",
+      "Arsenal"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2021?",
+    "answer": "Chelsea",
+    "options": [
+      "Bayern de Munique",
+      "Manchester City",
+      "Paris Saint-Germain",
+      "Chelsea"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual foi o país campeão da primeira Copa do Mundo, em 1930?",
+    "answer": "Uruguai",
+    "options": [
+      "Itália",
+      "Uruguai",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Robert Lewandowski?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "PSG",
+      "Bayern de Munique",
+      "Chelsea",
+      "Borussia Dortmund"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube espanhol manda seus jogos no Camp Nou?",
+    "answer": "Barcelona",
+    "options": [
+      "Real Madrid",
+      "Sevilla",
+      "Valencia",
+      "Barcelona"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual gigante europeu é associado a 6 título(s) da Champions League?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "PSG",
+      "Arsenal",
+      "Borussia Dortmund",
+      "Bayern de Munique"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual país é representado pelo clube AC Milan?",
+    "answer": "Itália",
+    "options": [
+      "França",
+      "Brasil",
+      "Itália",
+      "Inglaterra"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual país é representado pelo clube Barcelona?",
+    "answer": "Espanha",
+    "options": [
+      "Inglaterra",
+      "Brasil",
+      "Espanha",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual clube Ronaldinho jogou imediatamente antes do Barcelona?",
+    "answer": "Paris Saint-Germain",
+    "options": [
+      "Grêmio",
+      "Paris Saint-Germain",
+      "Manchester City",
+      "Milan"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Em qual país joga o clube Real Madrid?",
+    "answer": "Espanha",
+    "options": [
+      "Argentina",
+      "França",
+      "Espanha",
+      "Brasil"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual país tem a seleção conhecida como Albiceleste?",
+    "answer": "Argentina",
+    "options": [
+      "Argentina",
+      "Colômbia",
+      "Uruguai",
+      "Chile"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual gigante europeu é associado a 15 título(s) da Champions League?",
+    "answer": "Real Madrid",
+    "options": [
+      "PSG",
+      "Arsenal",
+      "Borussia Dortmund",
+      "Real Madrid"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Liverpool?",
+    "answer": "Liverpool",
+    "options": [
+      "Paris",
+      "Madri",
+      "Londres",
+      "Liverpool"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual país é representado pelo clube Borussia Dortmund?",
+    "answer": "Alemanha",
+    "options": [
+      "Inglaterra",
+      "França",
+      "Alemanha",
+      "Brasil"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Paris Saint-Germain?",
+    "answer": "Paris",
+    "options": [
+      "Madri",
+      "Paris",
+      "Lisboa",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 1 vez(es) e pertence à seleção da Argentina, sendo associado à conquista de 1986?",
+    "answer": "Diego Maradona",
+    "options": [
+      "Diego Maradona",
+      "Cristiano Ronaldo",
+      "Neymar",
+      "Lionel Messi"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Em qual país joga o clube Santos?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "França",
+      "Argentina"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Villa?",
+    "answer": "Espanha",
+    "options": [
+      "França",
+      "Brasil",
+      "Espanha",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2006?",
+    "answer": "Barcelona",
+    "options": [
+      "Liverpool",
+      "Barcelona",
+      "Arsenal",
+      "AC Milan"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual goleiro venceu a Luva de Ouro da Copa de 2014?",
+    "answer": "Manuel Neuer",
+    "options": [
+      "Keylor Navas",
+      "Iker Casillas",
+      "Julio César",
+      "Manuel Neuer"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual é a capital do país cuja seleção venceu a Copa do Mundo de 2002?",
+    "answer": "Brasília",
+    "options": [
+      "Brasília",
+      "Roma",
+      "Paris",
+      "Madri"
+    ],
+    "category": "Futebol e países"
+  },
+  {
+    "question": "Qual clube tem 1 título(s) da Champions League e é da Inglaterra?",
+    "answer": "Manchester City",
+    "options": [
+      "Manchester City",
+      "Benfica",
+      "Arsenal",
+      "PSG"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Barcelona?",
+    "answer": "Barcelona",
+    "options": [
+      "Madri",
+      "Lisboa",
+      "Barcelona",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 2002?",
+    "answer": "Brasil",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "França",
+      "Alemanha"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 1 vez(es) e pertence à seleção da Spain, sendo associado à conquista de 2010?",
+    "answer": "David Villa",
+    "options": [
+      "Lionel Messi",
+      "Neymar",
+      "David Villa",
+      "Cristiano Ronaldo"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Santos?",
+    "answer": "Santos",
+    "options": [
+      "Madri",
+      "Lisboa",
+      "Santos",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 2018?",
+    "answer": "França",
+    "options": [
+      "França",
+      "Alemanha",
+      "Brasil",
+      "Croácia"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Bayern de Munique?",
+    "answer": "Munique",
+    "options": [
+      "Londres",
+      "Paris",
+      "Madri",
+      "Munique"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Real Madrid?",
+    "answer": "Madri",
+    "options": [
+      "Madri",
+      "Lisboa",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Ajax?",
+    "answer": "Amsterdã",
+    "options": [
+      "Lisboa",
+      "Amsterdã",
+      "Madri",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Ajax?",
+    "answer": "Amsterdã",
+    "options": [
+      "Paris",
+      "Londres",
+      "Madri",
+      "Amsterdã"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual gigante europeu é associado a 5 título(s) da Champions League?",
+    "answer": "Barcelona",
+    "options": [
+      "Borussia Dortmund",
+      "Arsenal",
+      "PSG",
+      "Barcelona"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Real Madrid?",
+    "answer": "Madri",
+    "options": [
+      "Londres",
+      "Madri",
+      "Paris"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção venceu a Copa América de 2015?",
+    "answer": "Chile",
+    "options": [
+      "Chile",
+      "Colômbia",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Liverpool?",
+    "answer": "Liverpool",
+    "options": [
+      "Lisboa",
+      "Liverpool",
+      "Londres",
+      "Madri"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual jogador argentino é conhecido pela 'Mão de Deus' na Copa de 1986?",
+    "answer": "Diego Maradona",
+    "options": [
+      "Diego Maradona",
+      "Gabriel Batistuta",
+      "Javier Zanetti",
+      "Lionel Messi"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1982?",
+    "answer": "Itália",
+    "options": [
+      "Brasil",
+      "Alemanha Ocidental",
+      "Itália",
+      "Argentina"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual gigante europeu é associado a 3 título(s) da Champions League?",
+    "answer": "Inter de Milão",
+    "options": [
+      "Arsenal",
+      "Borussia Dortmund",
+      "Inter de Milão",
+      "PSG"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual país é representado pelo clube Real Madrid?",
+    "answer": "Espanha",
+    "options": [
+      "Espanha",
+      "França",
+      "Inglaterra",
+      "Brasil"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção venceu a Copa América de 2021?",
+    "answer": "Argentina",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Uruguai",
+      "Chile"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Quanto dura o intervalo normalmente?",
+    "answer": "15 minutos",
+    "options": [
+      "30 minutos",
+      "15 minutos",
+      "20 minutos",
+      "10 minutos"
+    ],
+    "category": "Regras"
+  },
+  {
+    "question": "Qual jogador é conhecido como 'Rei do Futebol'?",
+    "answer": "Pelé",
+    "options": [
+      "Pelé",
+      "Maradona",
+      "Ronaldo",
+      "Zico"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2016?",
+    "answer": "Real Madrid",
+    "options": [
+      "Barcelona",
+      "Atlético de Madrid",
+      "Real Madrid",
+      "Bayern de Munique"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 1998?",
+    "answer": "Real Madrid",
+    "options": [
+      "Juventus",
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Manchester United"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual seleção tem cinco títulos de Copa do Mundo?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Itália",
+      "Alemanha"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual clube Robert Lewandowski jogou antes do Barcelona?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Lech Poznań",
+      "Bayern de Munique"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Arsenal?",
+    "answer": "Londres",
+    "options": [
+      "Paris",
+      "Londres",
+      "Madri"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Arsenal?",
+    "answer": "Londres",
+    "options": [
+      "Madri",
+      "Lisboa",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Zinedine Zidane?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Arsenal",
+      "Juventus"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 2 vez(es) e pertence à seleção da Brazil, sendo associado à conquista de 1994 and 2002?",
+    "answer": "Ronaldo Nazário",
+    "options": [
+      "Ronaldo Nazário",
+      "Neymar",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Porto?",
+    "answer": "Porto",
+    "options": [
+      "Madri",
+      "Porto",
+      "Lisboa",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual país é representado pelo clube Manchester City?",
+    "answer": "Inglaterra",
+    "options": [
+      "Brasil",
+      "França",
+      "Inglaterra"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual país joga o clube Juventus?",
+    "answer": "Itália",
+    "options": [
+      "Brasil",
+      "Itália",
+      "Argentina",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual clube Karim Benzema jogou antes do Real Madrid?",
+    "answer": "Lyon",
+    "options": [
+      "PSG",
+      "Monaco",
+      "Lyon",
+      "Marseille"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual seleção é conhecida como Selecção das Quinas?",
+    "answer": "Portugal",
+    "options": [
+      "Brasil",
+      "Portugal",
+      "Angola",
+      "Espanha"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Messi?",
+    "answer": "Argentina",
+    "options": [
+      "França",
+      "Brasil",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube italiano é conhecido como Juventus?",
+    "answer": "Juventus",
+    "options": [
+      "Juventus",
+      "Lazio",
+      "Roma",
+      "Napoli"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Modrić?",
+    "answer": "Croácia",
+    "options": [
+      "Croácia",
+      "Argentina",
+      "Brasil",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual país é representado pelo clube Paris Saint-Germain?",
+    "answer": "França",
+    "options": [
+      "Inglaterra",
+      "Brasil",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Flamengo?",
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Londres",
+      "Rio de Janeiro",
+      "Paris",
+      "Madri"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2005?",
+    "answer": "Liverpool",
+    "options": [
+      "Chelsea",
+      "Barcelona",
+      "AC Milan",
+      "Liverpool"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual é a capital do país cuja seleção venceu a Copa do Mundo de 2022?",
+    "answer": "Buenos Aires",
+    "options": [
+      "Madri",
+      "Paris",
+      "Roma",
+      "Buenos Aires"
+    ],
+    "category": "Futebol e países"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Benfica?",
+    "answer": "Lisboa",
+    "options": [
+      "Londres",
+      "Madri",
+      "Lisboa",
+      "Paris"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2020?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Bayern de Munique",
+      "Liverpool",
+      "Real Madrid",
+      "PSG"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual país é representado pelo clube Manchester United?",
+    "answer": "Inglaterra",
+    "options": [
+      "Brasil",
+      "Inglaterra",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual país é representado pelo clube Santos?",
+    "answer": "Brasil",
+    "options": [
+      "Inglaterra",
+      "França",
+      "Brasil"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual país joga o clube Barcelona?",
+    "answer": "Espanha",
+    "options": [
+      "Argentina",
+      "Espanha",
+      "Brasil",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 2022?",
+    "answer": "Argentina",
+    "options": [
+      "França",
+      "Argentina",
+      "Brasil",
+      "Croácia"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Sergio Ramos?",
+    "answer": "Real Madrid",
+    "options": [
+      "Sevilla",
+      "Arsenal",
+      "Juventus",
+      "Real Madrid"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Ronaldo Nazário?",
+    "answer": "Real Madrid",
+    "options": [
+      "Chelsea",
+      "PSG",
+      "Inter de Milão",
+      "Real Madrid"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Lionel Messi?",
+    "answer": "Barcelona",
+    "options": [
+      "Juventus",
+      "Inter Miami",
+      "Barcelona",
+      "Arsenal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção venceu a Copa América de 2019?",
+    "answer": "Brasil",
+    "options": [
+      "Chile",
+      "Peru",
+      "Brasil",
+      "Argentina"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube tem 2 título(s) da Champions League e é da Inglaterra?",
+    "answer": "Chelsea",
+    "options": [
+      "Benfica",
+      "Arsenal",
+      "Chelsea",
+      "PSG"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2001?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Bayern de Munique",
+      "Real Madrid",
+      "Valencia",
+      "Leeds United"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2011?",
+    "answer": "Barcelona",
+    "options": [
+      "Barcelona",
+      "Real Madrid",
+      "Manchester United",
+      "Chelsea"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual jogador é conhecido pelo apelido 'Fenômeno'?",
+    "answer": "Ronaldo Nazário",
+    "options": [
+      "Kaká",
+      "Romário",
+      "Ronaldinho",
+      "Ronaldo Nazário"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual país sediou a primeira Copa do Mundo?",
+    "answer": "Uruguai",
+    "options": [
+      "França",
+      "Brasil",
+      "Argentina",
+      "Uruguai"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube soma 4 conquista(s) da principal competição europeia de clubes?",
+    "answer": "Ajax",
+    "options": [
+      "Ajax",
+      "Borussia Dortmund",
+      "PSG",
+      "Arsenal"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Juventus?",
+    "answer": "Turim",
+    "options": [
+      "Turim",
+      "Londres",
+      "Lisboa",
+      "Madri"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Robert Lewandowski?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Arsenal",
+      "Bayern de Munique",
+      "Juventus",
+      "Borussia Dortmund"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Em qual clube Sadio Mané jogou antes do Liverpool?",
+    "answer": "Southampton",
+    "options": [
+      "Leicester City",
+      "West Ham",
+      "Southampton",
+      "Chelsea"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Xavi?",
+    "answer": "Espanha",
+    "options": [
+      "Argentina",
+      "França",
+      "Brasil",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Iniesta?",
+    "answer": "Espanha",
+    "options": [
+      "Argentina",
+      "Espanha",
+      "França",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 1 vez(es) e pertence à seleção da Brazil, sendo associado à conquista de 2002?",
+    "answer": "Kaká",
+    "options": [
+      "Neymar",
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Kaká"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 1999?",
+    "answer": "Manchester United",
+    "options": [
+      "Juventus",
+      "Manchester United",
+      "Bayern de Munique",
+      "Real Madrid"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual clube Mohamed Salah jogou na Premier League antes do Liverpool?",
+    "answer": "Chelsea",
+    "options": [
+      "Tottenham",
+      "Arsenal",
+      "Chelsea",
+      "Manchester City"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 0 vez(es) e pertence à seleção da Croatia, sendo associado à conquista de —?",
+    "answer": "Luka Modrić",
+    "options": [
+      "Luka Modrić",
+      "Cristiano Ronaldo",
+      "Neymar",
+      "Lionel Messi"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual seleção venceu a Euro 2016?",
+    "answer": "Portugal",
+    "options": [
+      "Portugal",
+      "Alemanha",
+      "França",
+      "Espanha"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Benfica?",
+    "answer": "Lisboa",
+    "options": [
+      "Londres",
+      "Madri",
+      "Lisboa"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1958?",
+    "answer": "Brasil",
+    "options": [
+      "Suécia",
+      "Alemanha Ocidental",
+      "França",
+      "Brasil"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Karim Benzema?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Juventus",
+      "Lyon",
+      "Arsenal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Santos?",
+    "answer": "Santos",
+    "options": [
+      "Madri",
+      "Paris",
+      "Santos",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção é conhecida como Azzurra?",
+    "answer": "Itália",
+    "options": [
+      "Portugal",
+      "Grécia",
+      "Itália",
+      "Espanha"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção é conhecida como Les Bleus?",
+    "answer": "França",
+    "options": [
+      "Bélgica",
+      "Croácia",
+      "França",
+      "Suíça"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Quem foi o capitão da Espanha campeã mundial em 2010?",
+    "answer": "Iker Casillas",
+    "options": [
+      "Carles Puyol",
+      "Xavi",
+      "Iker Casillas",
+      "Sergio Ramos"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube espanhol manda seus jogos no Santiago Bernabéu?",
+    "answer": "Real Madrid",
+    "options": [
+      "Barcelona",
+      "Sevilla",
+      "Real Madrid",
+      "Atlético de Madrid"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual país joga o clube Manchester City?",
+    "answer": "Inglaterra",
+    "options": [
+      "Inglaterra",
+      "Argentina",
+      "Brasil",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual clube Luka Modrić jogou antes do Real Madrid?",
+    "answer": "Tottenham",
+    "options": [
+      "Tottenham",
+      "Manchester United",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Xavi?",
+    "answer": "Barcelona",
+    "options": [
+      "PSG",
+      "Al Sadd",
+      "Barcelona",
+      "Chelsea"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual gigante europeu é associado a 7 título(s) da Champions League?",
+    "answer": "AC Milan",
+    "options": [
+      "Borussia Dortmund",
+      "Arsenal",
+      "AC Milan",
+      "PSG"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Luka Modrić?",
+    "answer": "Real Madrid",
+    "options": [
+      "Tottenham",
+      "Real Madrid",
+      "Juventus",
+      "Arsenal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual país é representado pelo clube Liverpool?",
+    "answer": "Inglaterra",
+    "options": [
+      "França",
+      "Brasil",
+      "Inglaterra"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem 4 título(s) da Champions League e é da Países Baixos?",
+    "answer": "Ajax",
+    "options": [
+      "Benfica",
+      "PSG",
+      "Ajax",
+      "Arsenal"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Pelé?",
+    "answer": "Brasil",
+    "options": [
+      "Argentina",
+      "França",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Quem marcou dois gols na final da Copa do Mundo de 2002 pelo Brasil?",
+    "answer": "Ronaldo Nazário",
+    "options": [
+      "Rivaldo",
+      "Kaká",
+      "Ronaldinho",
+      "Ronaldo Nazário"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Ramos?",
+    "answer": "Espanha",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "França",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual país é representado pelo clube Arsenal?",
+    "answer": "Inglaterra",
+    "options": [
+      "Brasil",
+      "Inglaterra",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual clube Alisson jogou antes do Liverpool?",
+    "answer": "Roma",
+    "options": [
+      "Milan",
+      "Internazionale",
+      "Roma",
+      "Lazio"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1998?",
+    "answer": "França",
+    "options": [
+      "Brasil",
+      "Alemanha",
+      "Itália",
+      "França"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Andrés Iniesta?",
+    "answer": "Barcelona",
+    "options": [
+      "Vissel Kobe",
+      "Chelsea",
+      "Barcelona",
+      "PSG"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Em qual país joga o clube Arsenal?",
+    "answer": "Inglaterra",
+    "options": [
+      "França",
+      "Brasil",
+      "Argentina",
+      "Inglaterra"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Juventus?",
+    "answer": "Turim",
+    "options": [
+      "Paris",
+      "Turim",
+      "Madri",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual país joga o clube Chelsea?",
+    "answer": "Inglaterra",
+    "options": [
+      "França",
+      "Brasil",
+      "Inglaterra",
+      "Argentina"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Andrés Iniesta?",
+    "answer": "Barcelona",
+    "options": [
+      "Vissel Kobe",
+      "Juventus",
+      "Arsenal",
+      "Barcelona"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1962?",
+    "answer": "Brasil",
+    "options": [
+      "Tchecoslováquia",
+      "Chile",
+      "Inglaterra",
+      "Brasil"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Manchester City?",
+    "answer": "Manchester",
+    "options": [
+      "Lisboa",
+      "Manchester",
+      "Madri",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Xavi?",
+    "answer": "Barcelona",
+    "options": [
+      "Barcelona",
+      "Arsenal",
+      "Juventus",
+      "Al Sadd"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 3 vez(es) e pertence à seleção da Brazil, sendo associado à conquista de 1958, 1962 and 1970?",
+    "answer": "Pelé",
+    "options": [
+      "Lionel Messi",
+      "Neymar",
+      "Pelé",
+      "Cristiano Ronaldo"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual seleção perdeu a final da Copa do Mundo de 2018 para a França?",
+    "answer": "Croácia",
+    "options": [
+      "Alemanha",
+      "Croácia",
+      "Inglaterra",
+      "Bélgica"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Mbappé?",
+    "answer": "França",
+    "options": [
+      "Argentina",
+      "França",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual país é representado pelo clube Inter de Milão?",
+    "answer": "Itália",
+    "options": [
+      "Itália",
+      "Brasil",
+      "França",
+      "Inglaterra"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Ronaldo Nazário?",
+    "answer": "Brasil",
+    "options": [
+      "Argentina",
+      "França",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Em qual país joga o clube Benfica?",
+    "answer": "Portugal",
+    "options": [
+      "Brasil",
+      "Portugal",
+      "França",
+      "Argentina"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual jogador português é conhecido por ter vencido a Euro 2016 como capitão?",
+    "answer": "Cristiano Ronaldo",
+    "options": [
+      "João Moutinho",
+      "Pepe",
+      "Nani",
+      "Cristiano Ronaldo"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube soma 2 conquista(s) da principal competição europeia de clubes?",
+    "answer": "Benfica",
+    "options": [
+      "PSG",
+      "Arsenal",
+      "Benfica",
+      "Borussia Dortmund"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube francês manda seus jogos no Parc des Princes?",
+    "answer": "Paris Saint-Germain",
+    "options": [
+      "Lyon",
+      "Paris Saint-Germain",
+      "Monaco",
+      "Marseille"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 2010?",
+    "answer": "Espanha",
+    "options": [
+      "Espanha",
+      "Alemanha",
+      "Países Baixos",
+      "Brasil"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 1 vez(es) e pertence à seleção da Argentina, sendo associado à conquista de 2022?",
+    "answer": "Lionel Messi",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Neymar"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Ronaldinho?",
+    "answer": "Brasil",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2007?",
+    "answer": "AC Milan",
+    "options": [
+      "Manchester United",
+      "AC Milan",
+      "Liverpool",
+      "Chelsea"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual país joga o clube Bayern de Munique?",
+    "answer": "Alemanha",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "França",
+      "Alemanha"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual cidade é associada ao clube AC Milan?",
+    "answer": "Milão",
+    "options": [
+      "Milão",
+      "Madri",
+      "Paris",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual país tem a seleção conhecida como Canarinho?",
+    "answer": "Brasil",
+    "options": [
+      "Portugal",
+      "Brasil",
+      "França",
+      "Argentina"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual clube Thierry Henry ficou famoso antes de jogar no Barcelona?",
+    "answer": "Arsenal",
+    "options": [
+      "Chelsea",
+      "Juventus",
+      "Monaco",
+      "Arsenal"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube inglês manda seus jogos no Old Trafford?",
+    "answer": "Manchester United",
+    "options": [
+      "Manchester United",
+      "Liverpool",
+      "Manchester City",
+      "Chelsea"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual clube Thibaut Courtois jogou antes do Real Madrid?",
+    "answer": "Chelsea",
+    "options": [
+      "Genk",
+      "Chelsea",
+      "Manchester United",
+      "Atlético de Madrid"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1990?",
+    "answer": "Alemanha",
+    "options": [
+      "Brasil",
+      "Alemanha",
+      "Itália",
+      "Argentina"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1994?",
+    "answer": "Brasil",
+    "options": [
+      "Itália",
+      "Alemanha",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual país foi realizada a Copa do Mundo de 2010?",
+    "answer": "África do Sul",
+    "options": [
+      "México",
+      "Alemanha",
+      "Brasil",
+      "África do Sul"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual país é representado pelo clube Flamengo?",
+    "answer": "Brasil",
+    "options": [
+      "França",
+      "Inglaterra",
+      "Brasil"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem 1 título(s) da Champions League e é da Alemanha?",
+    "answer": "Borussia Dortmund",
+    "options": [
+      "Arsenal",
+      "PSG",
+      "Borussia Dortmund",
+      "Benfica"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Manchester United?",
+    "answer": "Manchester",
+    "options": [
+      "Londres",
+      "Lisboa",
+      "Madri",
+      "Manchester"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Chelsea?",
+    "answer": "Londres",
+    "options": [
+      "Madri",
+      "Lisboa",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube alemão manda seus jogos na Allianz Arena?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Borussia Dortmund",
+      "RB Leipzig",
+      "Bayer Leverkusen",
+      "Bayern de Munique"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Sergio Ramos?",
+    "answer": "Real Madrid",
+    "options": [
+      "PSG",
+      "Chelsea",
+      "Real Madrid",
+      "Sevilla"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual gigante europeu é associado a 4 título(s) da Champions League?",
+    "answer": "Ajax",
+    "options": [
+      "PSG",
+      "Borussia Dortmund",
+      "Arsenal",
+      "Ajax"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Kevin De Bruyne?",
+    "answer": "Manchester City",
+    "options": [
+      "Arsenal",
+      "Wolfsburg",
+      "Juventus",
+      "Manchester City"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube inglês manda seus jogos em Anfield?",
+    "answer": "Liverpool",
+    "options": [
+      "Liverpool",
+      "Chelsea",
+      "Arsenal",
+      "Everton"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual clube Eden Hazard jogou antes do Real Madrid?",
+    "answer": "Chelsea",
+    "options": [
+      "Tottenham",
+      "Manchester City",
+      "Chelsea",
+      "Lille"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Em qual país joga o clube Porto?",
+    "answer": "Portugal",
+    "options": [
+      "França",
+      "Portugal",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Ronaldinho?",
+    "answer": "Barcelona",
+    "options": [
+      "PSG",
+      "Chelsea",
+      "Barcelona",
+      "AC Milan"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Neymar?",
+    "answer": "Brasil",
+    "options": [
+      "França",
+      "Brasil",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Em qual país joga o clube Inter de Milão?",
+    "answer": "Itália",
+    "options": [
+      "França",
+      "Brasil",
+      "Itália",
+      "Argentina"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2008?",
+    "answer": "Manchester United",
+    "options": [
+      "Barcelona",
+      "Chelsea",
+      "Arsenal",
+      "Manchester United"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual país sediou a Copa do Mundo de 2006?",
+    "answer": "Alemanha",
+    "options": [
+      "Alemanha",
+      "Áustria",
+      "França",
+      "Itália"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Klose?",
+    "answer": "Alemanha",
+    "options": [
+      "França",
+      "Alemanha",
+      "Brasil",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 2006?",
+    "answer": "Itália",
+    "options": [
+      "Brasil",
+      "Itália",
+      "França",
+      "Alemanha"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Kaká?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "França",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Cristiano Ronaldo?",
+    "answer": "Real Madrid",
+    "options": [
+      "PSG",
+      "Chelsea",
+      "Real Madrid",
+      "Manchester United"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual país é representado pelo clube Juventus?",
+    "answer": "Itália",
+    "options": [
+      "França",
+      "Brasil",
+      "Inglaterra",
+      "Itália"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual país joga o clube Manchester United?",
+    "answer": "Inglaterra",
+    "options": [
+      "Inglaterra",
+      "Brasil",
+      "Argentina",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Ronaldinho?",
+    "answer": "Barcelona",
+    "options": [
+      "AC Milan",
+      "Barcelona",
+      "Juventus",
+      "Arsenal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Luka Modrić?",
+    "answer": "Real Madrid",
+    "options": [
+      "Chelsea",
+      "Real Madrid",
+      "PSG",
+      "Tottenham"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Kevin De Bruyne?",
+    "answer": "Manchester City",
+    "options": [
+      "Manchester City",
+      "PSG",
+      "Wolfsburg",
+      "Chelsea"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Em qual país joga o clube Paris Saint-Germain?",
+    "answer": "França",
+    "options": [
+      "França",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2017?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Atlético de Madrid",
+      "Juventus",
+      "Bayern de Munique"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Paris Saint-Germain?",
+    "answer": "Paris",
+    "options": [
+      "Paris",
+      "Madri",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Neuer?",
+    "answer": "Alemanha",
+    "options": [
+      "Alemanha",
+      "França",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Em qual clube Erling Haaland jogou antes do Manchester City?",
+    "answer": "Borussia Dortmund",
+    "options": [
+      "Borussia Dortmund",
+      "RB Leipzig",
+      "Bayern de Munique",
+      "Salzburg"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual jogador venceu a Bola de Ouro da Copa de 2018?",
+    "answer": "Luka Modrić",
+    "options": [
+      "Luka Modrić",
+      "Kylian Mbappé",
+      "Antoine Griezmann",
+      "Eden Hazard"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 0 vez(es) e pertence à seleção da Brazil, sendo associado à conquista de —?",
+    "answer": "Neymar",
+    "options": [
+      "Lionel Messi",
+      "Neymar",
+      "Cristiano Ronaldo"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual clube soma 5 conquista(s) da principal competição europeia de clubes?",
+    "answer": "Barcelona",
+    "options": [
+      "Arsenal",
+      "Borussia Dortmund",
+      "PSG",
+      "Barcelona"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem 6 título(s) da Champions League e é da Alemanha?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Benfica",
+      "Arsenal",
+      "Bayern de Munique",
+      "PSG"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual goleiro foi campeão mundial com a Argentina em 2022?",
+    "answer": "Emiliano Martínez",
+    "options": [
+      "Hugo Lloris",
+      "Emiliano Martínez",
+      "Manuel Neuer",
+      "Franco Armani"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Thierry Henry?",
+    "answer": "Arsenal",
+    "options": [
+      "Barcelona",
+      "Juventus",
+      "Arsenal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2015?",
+    "answer": "Barcelona",
+    "options": [
+      "Juventus",
+      "Barcelona",
+      "Bayern de Munique",
+      "Real Madrid"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Manchester City?",
+    "answer": "Manchester",
+    "options": [
+      "Manchester",
+      "Londres",
+      "Madri",
+      "Paris"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Thierry Henry?",
+    "answer": "Arsenal",
+    "options": [
+      "Barcelona",
+      "Chelsea",
+      "Arsenal",
+      "PSG"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Cristiano Ronaldo?",
+    "answer": "Real Madrid",
+    "options": [
+      "Juventus",
+      "Arsenal",
+      "Manchester United",
+      "Real Madrid"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2002?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Bayer Leverkusen",
+      "Valencia",
+      "Barcelona"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual seleção perdeu a final da Copa do Mundo de 2014 para a Alemanha?",
+    "answer": "Argentina",
+    "options": [
+      "França",
+      "Brasil",
+      "Países Baixos",
+      "Argentina"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual é a dimensão aproximada do gol no futebol profissional?",
+    "answer": "7,32 m × 2,44 m",
+    "options": [
+      "7 m × 3 m",
+      "6 m × 2 m",
+      "7,32 m × 2,44 m",
+      "8 m × 3 m"
+    ],
+    "category": "Regras"
+  },
+  {
+    "question": "Qual seleção tem quatro títulos de Copa do Mundo?",
+    "answer": "Alemanha",
+    "options": [
+      "Alemanha",
+      "Brasil",
+      "Itália",
+      "Argentina"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2009?",
+    "answer": "Barcelona",
+    "options": [
+      "Chelsea",
+      "Liverpool",
+      "Barcelona",
+      "Manchester United"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Henry?",
+    "answer": "França",
+    "options": [
+      "França",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Borussia Dortmund?",
+    "answer": "Dortmund",
+    "options": [
+      "Madri",
+      "Dortmund",
+      "Lisboa",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1970?",
+    "answer": "Brasil",
+    "options": [
+      "Uruguai",
+      "Brasil",
+      "Itália",
+      "Alemanha Ocidental"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Borussia Dortmund?",
+    "answer": "Dortmund",
+    "options": [
+      "Londres",
+      "Paris",
+      "Madri",
+      "Dortmund"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual país joga o clube Flamengo?",
+    "answer": "Brasil",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem 3 título(s) da Champions League e é da Itália?",
+    "answer": "Inter de Milão",
+    "options": [
+      "Benfica",
+      "Arsenal",
+      "Inter de Milão",
+      "PSG"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Neymar?",
+    "answer": "Barcelona",
+    "options": [
+      "Barcelona",
+      "Santos",
+      "Arsenal",
+      "Juventus"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual país é representado pelo clube Chelsea?",
+    "answer": "Inglaterra",
+    "options": [
+      "França",
+      "Brasil",
+      "Inglaterra"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Mohamed Salah?",
+    "answer": "Liverpool",
+    "options": [
+      "Chelsea",
+      "Juventus",
+      "Liverpool",
+      "Arsenal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2003?",
+    "answer": "AC Milan",
+    "options": [
+      "Manchester United",
+      "Juventus",
+      "Real Madrid",
+      "AC Milan"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Kaká?",
+    "answer": "AC Milan",
+    "options": [
+      "Arsenal",
+      "Juventus",
+      "AC Milan",
+      "Real Madrid"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2018?",
+    "answer": "Real Madrid",
+    "options": [
+      "Juventus",
+      "Bayern de Munique",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual brasileiro ganhou a Bola de Ouro da Copa de 1994?",
+    "answer": "Romário",
+    "options": [
+      "Dunga",
+      "Ronaldo",
+      "Bebeto",
+      "Romário"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Em qual clube Neymar jogou antes de se transferir para o Barcelona?",
+    "answer": "Santos",
+    "options": [
+      "Flamengo",
+      "Palmeiras",
+      "São Paulo",
+      "Santos"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1986?",
+    "answer": "Argentina",
+    "options": [
+      "Alemanha Ocidental",
+      "França",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual clube Cristiano Ronaldo ganhou sua primeira Bola de Ouro?",
+    "answer": "Manchester United",
+    "options": [
+      "Juventus",
+      "Real Madrid",
+      "Sporting",
+      "Manchester United"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual seleção conquistou a Copa do Mundo em 1986 com Maradona como grande protagonista?",
+    "answer": "Argentina",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "México",
+      "Alemanha"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Lionel Messi?",
+    "answer": "Barcelona",
+    "options": [
+      "Chelsea",
+      "Inter Miami",
+      "PSG",
+      "Barcelona"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Como se chama a cobrança feita do canto do campo?",
+    "answer": "Escanteio",
+    "options": [
+      "Pênalti",
+      "Tiro livre",
+      "Escanteio",
+      "Arremesso lateral"
+    ],
+    "category": "Regras"
+  },
+  {
+    "question": "Qual país é representado pelo clube Benfica?",
+    "answer": "Portugal",
+    "options": [
+      "Portugal",
+      "Inglaterra",
+      "Brasil",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Barcelona?",
+    "answer": "Barcelona",
+    "options": [
+      "Londres",
+      "Barcelona",
+      "Paris",
+      "Madri"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 2014?",
+    "answer": "Alemanha",
+    "options": [
+      "Brasil",
+      "Alemanha",
+      "Espanha",
+      "Argentina"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2012?",
+    "answer": "Chelsea",
+    "options": [
+      "Real Madrid",
+      "Bayern de Munique",
+      "Chelsea",
+      "Barcelona"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube soma 15 conquista(s) da principal competição europeia de clubes?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Borussia Dortmund",
+      "Arsenal",
+      "PSG"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Zidane?",
+    "answer": "França",
+    "options": [
+      "Brasil",
+      "França",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Quem é o maior artilheiro da história das Copas do Mundo masculinas?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Pelé",
+      "Ronaldo Nazário",
+      "Miroslav Klose",
+      "Lionel Messi"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção é conhecida como Three Lions?",
+    "answer": "Inglaterra",
+    "options": [
+      "Escócia",
+      "Inglaterra",
+      "País de Gales",
+      "Irlanda"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2013?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Barcelona",
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Bayern de Munique"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual destes clubes foi um dos grandes destinos da carreira de Ronaldo Nazário?",
+    "answer": "Real Madrid",
+    "options": [
+      "Arsenal",
+      "Real Madrid",
+      "Inter de Milão",
+      "Juventus"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Casillas?",
+    "answer": "Espanha",
+    "options": [
+      "Espanha",
+      "Argentina",
+      "Brasil",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube tem 7 título(s) da Champions League e é da Itália?",
+    "answer": "AC Milan",
+    "options": [
+      "Benfica",
+      "Arsenal",
+      "AC Milan",
+      "PSG"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Mohamed Salah?",
+    "answer": "Liverpool",
+    "options": [
+      "Chelsea",
+      "PSG",
+      "Liverpool"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2022?",
+    "answer": "Real Madrid",
+    "options": [
+      "Liverpool",
+      "Manchester City",
+      "Chelsea",
+      "Real Madrid"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual país joga o clube Ajax?",
+    "answer": "Países Baixos",
+    "options": [
+      "Argentina",
+      "Países Baixos",
+      "Brasil",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual clube Lionel Messi estreou profissionalmente?",
+    "answer": "Barcelona",
+    "options": [
+      "Newell's Old Boys",
+      "Inter Miami",
+      "Barcelona",
+      "PSG"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube soma 7 conquista(s) da principal competição europeia de clubes?",
+    "answer": "AC Milan",
+    "options": [
+      "Arsenal",
+      "Borussia Dortmund",
+      "PSG",
+      "AC Milan"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube soma 3 conquista(s) da principal competição europeia de clubes?",
+    "answer": "Inter de Milão",
+    "options": [
+      "Arsenal",
+      "PSG",
+      "Inter de Milão",
+      "Borussia Dortmund"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual é a capital do país cuja seleção venceu a Copa do Mundo de 2018?",
+    "answer": "Paris",
+    "options": [
+      "Roma",
+      "Paris",
+      "Madri"
+    ],
+    "category": "Futebol e países"
+  },
+  {
+    "question": "Qual é a capital do país cuja seleção venceu a Copa do Mundo de 2014?",
+    "answer": "Berlim",
+    "options": [
+      "Roma",
+      "Madri",
+      "Berlim",
+      "Paris"
+    ],
+    "category": "Futebol e países"
+  },
+  {
+    "question": "Qual seleção tem quatro títulos de Copa do Mundo e é europeia?",
+    "answer": "Itália",
+    "options": [
+      "Alemanha",
+      "França",
+      "Espanha",
+      "Itália"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Quem marcou o gol da final da Copa do Mundo de 2010?",
+    "answer": "Andrés Iniesta",
+    "options": [
+      "David Villa",
+      "Andrés Iniesta",
+      "Xavi",
+      "Fernando Torres"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Em qual país joga o clube AC Milan?",
+    "answer": "Itália",
+    "options": [
+      "Itália",
+      "França",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem 2 título(s) da Champions League e é da Itália?",
+    "answer": "Juventus",
+    "options": [
+      "Juventus",
+      "PSG",
+      "Benfica",
+      "Arsenal"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual clube Kaká jogou antes do Real Madrid?",
+    "answer": "AC Milan",
+    "options": [
+      "São Paulo",
+      "AC Milan",
+      "Inter de Milão",
+      "Roma"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "De qual seleção nacional é o craque Cristiano Ronaldo?",
+    "answer": "Portugal",
+    "options": [
+      "França",
+      "Portugal",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção venceu a Euro 2020, disputada em 2021?",
+    "answer": "Itália",
+    "options": [
+      "Inglaterra",
+      "Portugal",
+      "Itália",
+      "França"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual país joga o clube Borussia Dortmund?",
+    "answer": "Alemanha",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Alemanha",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Como se chama a cobrança de 11 metros?",
+    "answer": "Pênalti",
+    "options": [
+      "Pênalti",
+      "Lateral",
+      "Escanteio",
+      "Tiro de meta"
+    ],
+    "category": "Regras"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Karim Benzema?",
+    "answer": "Real Madrid",
+    "options": [
+      "Chelsea",
+      "Real Madrid",
+      "Lyon",
+      "PSG"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 1 vez(es) e pertence à seleção da Germany, sendo associado à conquista de 2014?",
+    "answer": "Thomas Müller",
+    "options": [
+      "Lionel Messi",
+      "Thomas Müller",
+      "Neymar",
+      "Cristiano Ronaldo"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual clube inglês manda seus jogos no Etihad Stadium?",
+    "answer": "Manchester City",
+    "options": [
+      "Manchester United",
+      "Arsenal",
+      "Manchester City",
+      "Liverpool"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2004?",
+    "answer": "Porto",
+    "options": [
+      "Porto",
+      "Deportivo La Coruña",
+      "Monaco",
+      "AC Milan"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Flamengo?",
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Lisboa",
+      "Madri",
+      "Londres",
+      "Rio de Janeiro"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual jogador croata ganhou a Bola de Ouro da Copa de 2018?",
+    "answer": "Luka Modrić",
+    "options": [
+      "Luka Modrić",
+      "Ivan Rakitić",
+      "Mario Mandžukić",
+      "Ivan Perišić"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Chelsea?",
+    "answer": "Londres",
+    "options": [
+      "Londres",
+      "Madri",
+      "Paris"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual brasileiro ganhou a Bola de Ouro da Copa de 1982?",
+    "answer": "Paolo Rossi",
+    "options": [
+      "Zico",
+      "Michel Platini",
+      "Sócrates",
+      "Paolo Rossi"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção sediou a Copa do Mundo de 2014?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "Alemanha",
+      "África do Sul",
+      "Rússia"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual clube Zinedine Zidane jogou antes do Real Madrid?",
+    "answer": "Juventus",
+    "options": [
+      "Juventus",
+      "Bordeaux",
+      "Cannes",
+      "Marseille"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Inter de Milão?",
+    "answer": "Milão",
+    "options": [
+      "Paris",
+      "Madri",
+      "Milão",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Porto?",
+    "answer": "Porto",
+    "options": [
+      "Londres",
+      "Porto",
+      "Madri",
+      "Paris"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Kaká?",
+    "answer": "AC Milan",
+    "options": [
+      "Real Madrid",
+      "Chelsea",
+      "AC Milan",
+      "PSG"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Quantos jogadores cada equipe tem em campo no início de uma partida de futebol?",
+    "answer": "11",
+    "options": [
+      "10",
+      "12",
+      "9",
+      "11"
+    ],
+    "category": "Regras"
+  },
+  {
+    "question": "Quem marcou o gol da Alemanha na prorrogação da final de 2014?",
+    "answer": "Mario Götze",
+    "options": [
+      "Mario Götze",
+      "Thomas Müller",
+      "Toni Kroos",
+      "Miroslav Klose"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual país é representado pelo clube Bayern de Munique?",
+    "answer": "Alemanha",
+    "options": [
+      "Brasil",
+      "Inglaterra",
+      "Alemanha",
+      "França"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube está diretamente associado à maior parte da carreira de elite de Zinedine Zidane?",
+    "answer": "Real Madrid",
+    "options": [
+      "Chelsea",
+      "Juventus",
+      "PSG",
+      "Real Madrid"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual país é representado pelo clube Ajax?",
+    "answer": "Países Baixos",
+    "options": [
+      "Brasil",
+      "França",
+      "Inglaterra",
+      "Países Baixos"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual jogador venceu a Bola de Ouro da Copa de 2022?",
+    "answer": "Lionel Messi",
+    "options": [
+      "Emiliano Martínez",
+      "Luka Modrić",
+      "Lionel Messi",
+      "Kylian Mbappé"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual jogador venceu a Copa do Mundo 1 vez(es) e pertence à seleção da France, sendo associado à conquista de 2018?",
+    "answer": "Kylian Mbappé",
+    "options": [
+      "Kylian Mbappé",
+      "Neymar",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube Inter de Milão?",
+    "answer": "Milão",
+    "options": [
+      "Milão",
+      "Madri",
+      "Lisboa",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual gigante europeu é associado a 2 título(s) da Champions League?",
+    "answer": "Benfica",
+    "options": [
+      "PSG",
+      "Arsenal",
+      "Borussia Dortmund",
+      "Benfica"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Quantos tempos tem uma partida de futebol?",
+    "answer": "2",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "category": "Regras"
+  },
+  {
+    "question": "Qual seleção conquistou a Copa do Mundo de 1998 em casa?",
+    "answer": "França",
+    "options": [
+      "Itália",
+      "Croácia",
+      "França",
+      "Brasil"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Em qual clube Kevin De Bruyne jogou antes do Manchester City?",
+    "answer": "Wolfsburg",
+    "options": [
+      "Genk",
+      "Liverpool",
+      "Chelsea",
+      "Wolfsburg"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube tem 5 título(s) da Champions League e é da Espanha?",
+    "answer": "Barcelona",
+    "options": [
+      "PSG",
+      "Arsenal",
+      "Barcelona",
+      "Benfica"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual cidade é associada ao clube Manchester United?",
+    "answer": "Manchester",
+    "options": [
+      "Londres",
+      "Madri",
+      "Manchester",
+      "Paris"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual posição o jogador normalmente pode usar as mãos dentro da própria área?",
+    "answer": "Goleiro",
+    "options": [
+      "Goleiro",
+      "Zagueiro",
+      "Volante",
+      "Atacante"
+    ],
+    "category": "Regras"
+  },
+  {
+    "question": "Quanto dura uma partida normal de futebol, sem prorrogação?",
+    "answer": "90 minutos",
+    "options": [
+      "100 minutos",
+      "80 minutos",
+      "120 minutos",
+      "90 minutos"
+    ],
+    "category": "Regras"
+  },
+  {
+    "question": "Qual clube venceu a primeira edição da Copa dos Campeões da Europa?",
+    "answer": "Real Madrid",
+    "options": [
+      "Benfica",
+      "Real Madrid",
+      "Barcelona",
+      "AC Milan"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube tem 6 título(s) da Champions League e é da Inglaterra?",
+    "answer": "Liverpool",
+    "options": [
+      "PSG",
+      "Benfica",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem 3 título(s) da Champions League e é da Inglaterra?",
+    "answer": "Manchester United",
+    "options": [
+      "PSG",
+      "Benfica",
+      "Manchester United",
+      "Arsenal"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual seleção perdeu a final da Copa do Mundo de 2022 para a Argentina?",
+    "answer": "França",
+    "options": [
+      "França",
+      "Países Baixos",
+      "Brasil",
+      "Croácia"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1966?",
+    "answer": "Inglaterra",
+    "options": [
+      "Inglaterra",
+      "Alemanha Ocidental",
+      "Brasil",
+      "Portugal"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual país é representado pelo clube Porto?",
+    "answer": "Portugal",
+    "options": [
+      "França",
+      "Brasil",
+      "Portugal",
+      "Inglaterra"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2019?",
+    "answer": "Liverpool",
+    "options": [
+      "Barcelona",
+      "Tottenham",
+      "Ajax",
+      "Liverpool"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2000?",
+    "answer": "Real Madrid",
+    "options": [
+      "Bayern de Munique",
+      "Valencia",
+      "Barcelona",
+      "Real Madrid"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual cartão indica expulsão?",
+    "answer": "Vermelho",
+    "options": [
+      "Amarelo",
+      "Azul",
+      "Vermelho",
+      "Verde"
+    ],
+    "category": "Regras"
+  },
+  {
+    "question": "Em qual país joga o clube Liverpool?",
+    "answer": "Inglaterra",
+    "options": [
+      "França",
+      "Brasil",
+      "Argentina",
+      "Inglaterra"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Em qual cidade fica a sede do clube AC Milan?",
+    "answer": "Milão",
+    "options": [
+      "Milão",
+      "Madri",
+      "Lisboa",
+      "Londres"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem 15 título(s) da Champions League e é da Espanha?",
+    "answer": "Real Madrid",
+    "options": [
+      "Benfica",
+      "Real Madrid",
+      "Arsenal",
+      "PSG"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube venceu a Champions League de 2014?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Chelsea",
+      "Atlético de Madrid",
+      "Bayern de Munique"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Qual destes clubes é da Espanha?",
+    "answer": "Real Madrid",
+    "options": [
+      "AC Milan",
+      "Chelsea",
+      "Flamengo",
+      "Real Madrid"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Espanha e é conhecido como Real Madrid?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Atlético de Madrid",
+      "Tottenham",
+      "Santos"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Espanha e é conhecido como Barcelona?",
+    "answer": "Barcelona",
+    "options": [
+      "Barcelona",
+      "Atlético de Madrid",
+      "Arsenal",
+      "Juventus"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Espanha e é conhecido como Atlético de Madrid?",
+    "answer": "Atlético de Madrid",
+    "options": [
+      "Atlético de Madrid",
+      "Real Madrid",
+      "Borussia Dortmund",
+      "Flamengo"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes é da Inglaterra?",
+    "answer": "Manchester United",
+    "options": [
+      "Chelsea",
+      "Manchester United",
+      "Bayern de Munique",
+      "Barcelona"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Inglaterra e é conhecido como Manchester United?",
+    "answer": "Manchester United",
+    "options": [
+      "Paris Saint-Germain",
+      "Real Madrid",
+      "Manchester United",
+      "Bayern de Munique"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Inglaterra e é conhecido como Manchester City?",
+    "answer": "Manchester City",
+    "options": [
+      "Atlético de Madrid",
+      "Manchester City",
+      "Benfica",
+      "Ajax"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Inglaterra e é conhecido como Liverpool?",
+    "answer": "Liverpool",
+    "options": [
+      "Bayern de Munique",
+      "Flamengo",
+      "Juventus",
+      "Liverpool"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Inglaterra e é conhecido como Chelsea?",
+    "answer": "Chelsea",
+    "options": [
+      "Chelsea",
+      "Barcelona",
+      "AC Milan",
+      "Borussia Dortmund"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Inglaterra e é conhecido como Arsenal?",
+    "answer": "Arsenal",
+    "options": [
+      "Borussia Dortmund",
+      "Santos",
+      "Atlético de Madrid",
+      "Arsenal"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Inglaterra e é conhecido como Tottenham?",
+    "answer": "Tottenham",
+    "options": [
+      "Porto",
+      "Liverpool",
+      "Tottenham",
+      "Manchester United"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes é da Alemanha?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "AC Milan",
+      "Chelsea",
+      "Porto",
+      "Bayern de Munique"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Alemanha e é conhecido como Bayern de Munique?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Benfica",
+      "Bayern de Munique",
+      "Arsenal",
+      "Atlético de Madrid"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Alemanha e é conhecido como Borussia Dortmund?",
+    "answer": "Borussia Dortmund",
+    "options": [
+      "Benfica",
+      "Flamengo",
+      "Ajax",
+      "Borussia Dortmund"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes é da Itália?",
+    "answer": "Juventus",
+    "options": [
+      "Juventus",
+      "Chelsea",
+      "Arsenal",
+      "Manchester City"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Itália e é conhecido como Juventus?",
+    "answer": "Juventus",
+    "options": [
+      "Flamengo",
+      "Arsenal",
+      "Bayern de Munique",
+      "Juventus"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Itália e é conhecido como AC Milan?",
+    "answer": "AC Milan",
+    "options": [
+      "AC Milan",
+      "Porto",
+      "Atlético de Madrid",
+      "Inter de Milão"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Itália e é conhecido como Inter de Milão?",
+    "answer": "Inter de Milão",
+    "options": [
+      "Bayern de Munique",
+      "Inter de Milão",
+      "Ajax",
+      "Arsenal"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes é da França?",
+    "answer": "Paris Saint-Germain",
+    "options": [
+      "Liverpool",
+      "Paris Saint-Germain",
+      "Ajax",
+      "Borussia Dortmund"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país França e é conhecido como Paris Saint-Germain?",
+    "answer": "Paris Saint-Germain",
+    "options": [
+      "Arsenal",
+      "Paris Saint-Germain",
+      "Manchester United",
+      "Bayern de Munique"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes é da Países Baixos?",
+    "answer": "Ajax",
+    "options": [
+      "Real Madrid",
+      "Porto",
+      "Ajax",
+      "Manchester United"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Países Baixos e é conhecido como Ajax?",
+    "answer": "Ajax",
+    "options": [
+      "Tottenham",
+      "Borussia Dortmund",
+      "Ajax",
+      "Manchester United"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes é da Portugal?",
+    "answer": "Porto",
+    "options": [
+      "Porto",
+      "Ajax",
+      "Paris Saint-Germain",
+      "Manchester United"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Portugal e é conhecido como Porto?",
+    "answer": "Porto",
+    "options": [
+      "Porto",
+      "Santos",
+      "Barcelona",
+      "Flamengo"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Portugal e é conhecido como Benfica?",
+    "answer": "Benfica",
+    "options": [
+      "Paris Saint-Germain",
+      "Ajax",
+      "Benfica",
+      "Santos"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual destes clubes é da Brasil?",
+    "answer": "Santos",
+    "options": [
+      "Chelsea",
+      "Santos",
+      "Inter de Milão",
+      "Borussia Dortmund"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Brasil e é conhecido como Santos?",
+    "answer": "Santos",
+    "options": [
+      "AC Milan",
+      "Arsenal",
+      "Santos",
+      "Tottenham"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Qual clube tem sua origem no país Brasil e é conhecido como Flamengo?",
+    "answer": "Flamengo",
+    "options": [
+      "Flamengo",
+      "Arsenal",
+      "Inter de Milão",
+      "Ajax"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "De qual país é o jogador Pelé?",
+    "answer": "Brasil",
+    "options": [
+      "Polônia",
+      "Brasil",
+      "Noruega",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Pelé?",
+    "answer": "Brasil",
+    "options": [
+      "França",
+      "Argentina",
+      "Bélgica",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Pelé?",
+    "answer": "Brasil",
+    "options": [
+      "Egito",
+      "Brasil",
+      "Alemanha",
+      "Polônia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Diego Maradona?",
+    "answer": "Argentina",
+    "options": [
+      "Egito",
+      "Croácia",
+      "Noruega",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Diego Maradona?",
+    "answer": "Argentina",
+    "options": [
+      "Argentina",
+      "Alemanha",
+      "Egito",
+      "Polônia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Diego Maradona?",
+    "answer": "Argentina",
+    "options": [
+      "Bélgica",
+      "Portugal",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Lionel Messi?",
+    "answer": "Argentina",
+    "options": [
+      "Senegal",
+      "Argentina",
+      "Egito",
+      "Noruega"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Lionel Messi?",
+    "answer": "Argentina",
+    "options": [
+      "Portugal",
+      "Argentina",
+      "Polônia",
+      "Alemanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Lionel Messi?",
+    "answer": "Argentina",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "Bélgica",
+      "Senegal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Cristiano Ronaldo?",
+    "answer": "Portugal",
+    "options": [
+      "Noruega",
+      "França",
+      "Portugal",
+      "Egito"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Cristiano Ronaldo?",
+    "answer": "Portugal",
+    "options": [
+      "Polônia",
+      "Portugal",
+      "Senegal",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Cristiano Ronaldo?",
+    "answer": "Portugal",
+    "options": [
+      "Senegal",
+      "Portugal",
+      "Brasil",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Neymar?",
+    "answer": "Brasil",
+    "options": [
+      "Argentina",
+      "Polônia",
+      "Brasil",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Neymar?",
+    "answer": "Brasil",
+    "options": [
+      "Senegal",
+      "Polônia",
+      "Brasil",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Neymar?",
+    "answer": "Brasil",
+    "options": [
+      "Alemanha",
+      "Croácia",
+      "Brasil",
+      "Polônia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Ronaldo Nazário?",
+    "answer": "Brasil",
+    "options": [
+      "Espanha",
+      "França",
+      "Brasil",
+      "Alemanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Ronaldo Nazário?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "Croácia",
+      "Noruega",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Ronaldo Nazário?",
+    "answer": "Brasil",
+    "options": [
+      "Portugal",
+      "Croácia",
+      "Brasil",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Ronaldinho?",
+    "answer": "Brasil",
+    "options": [
+      "Polônia",
+      "Brasil",
+      "Portugal",
+      "Bélgica"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Ronaldinho?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "Alemanha",
+      "Polônia",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Ronaldinho?",
+    "answer": "Brasil",
+    "options": [
+      "Espanha",
+      "Portugal",
+      "Bélgica",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Kaká?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "Alemanha",
+      "Polônia",
+      "Bélgica"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Kaká?",
+    "answer": "Brasil",
+    "options": [
+      "Portugal",
+      "Espanha",
+      "Brasil",
+      "Alemanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Kaká?",
+    "answer": "Brasil",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "Croácia",
+      "Egito"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Zinedine Zidane?",
+    "answer": "França",
+    "options": [
+      "Argentina",
+      "Egito",
+      "França",
+      "Bélgica"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Zinedine Zidane?",
+    "answer": "França",
+    "options": [
+      "França",
+      "Egito",
+      "Polônia",
+      "Croácia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Zinedine Zidane?",
+    "answer": "França",
+    "options": [
+      "Croácia",
+      "Polônia",
+      "Bélgica",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Thierry Henry?",
+    "answer": "França",
+    "options": [
+      "Croácia",
+      "Bélgica",
+      "França",
+      "Noruega"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Thierry Henry?",
+    "answer": "França",
+    "options": [
+      "Senegal",
+      "Argentina",
+      "Portugal",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Thierry Henry?",
+    "answer": "França",
+    "options": [
+      "Polônia",
+      "Portugal",
+      "França",
+      "Croácia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Luka Modrić?",
+    "answer": "Croácia",
+    "options": [
+      "Noruega",
+      "Portugal",
+      "Croácia",
+      "Polônia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Luka Modrić?",
+    "answer": "Croácia",
+    "options": [
+      "Alemanha",
+      "Noruega",
+      "Croácia",
+      "Senegal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Luka Modrić?",
+    "answer": "Croácia",
+    "options": [
+      "Croácia",
+      "Alemanha",
+      "Bélgica",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Xavi?",
+    "answer": "Espanha",
+    "options": [
+      "Egito",
+      "Alemanha",
+      "Espanha",
+      "Senegal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Xavi?",
+    "answer": "Espanha",
+    "options": [
+      "Brasil",
+      "Alemanha",
+      "Croácia",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Xavi?",
+    "answer": "Espanha",
+    "options": [
+      "Croácia",
+      "Bélgica",
+      "Senegal",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Andrés Iniesta?",
+    "answer": "Espanha",
+    "options": [
+      "Alemanha",
+      "Espanha",
+      "Senegal",
+      "Polônia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Andrés Iniesta?",
+    "answer": "Espanha",
+    "options": [
+      "Brasil",
+      "Polônia",
+      "Alemanha",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Andrés Iniesta?",
+    "answer": "Espanha",
+    "options": [
+      "Egito",
+      "Noruega",
+      "Espanha",
+      "Bélgica"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Sergio Ramos?",
+    "answer": "Espanha",
+    "options": [
+      "Senegal",
+      "Espanha",
+      "Noruega",
+      "Egito"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Sergio Ramos?",
+    "answer": "Espanha",
+    "options": [
+      "Alemanha",
+      "Egito",
+      "Noruega",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Sergio Ramos?",
+    "answer": "Espanha",
+    "options": [
+      "Espanha",
+      "Senegal",
+      "Croácia",
+      "Alemanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Iker Casillas?",
+    "answer": "Espanha",
+    "options": [
+      "Polônia",
+      "Espanha",
+      "Egito",
+      "Noruega"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Iker Casillas?",
+    "answer": "Espanha",
+    "options": [
+      "Croácia",
+      "Argentina",
+      "Egito",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Iker Casillas?",
+    "answer": "Espanha",
+    "options": [
+      "Espanha",
+      "Senegal",
+      "Noruega",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Manuel Neuer?",
+    "answer": "Alemanha",
+    "options": [
+      "Alemanha",
+      "França",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Manuel Neuer?",
+    "answer": "Alemanha",
+    "options": [
+      "Polônia",
+      "Alemanha",
+      "Espanha",
+      "Portugal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Manuel Neuer?",
+    "answer": "Alemanha",
+    "options": [
+      "França",
+      "Senegal",
+      "Portugal",
+      "Alemanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Miroslav Klose?",
+    "answer": "Alemanha",
+    "options": [
+      "Bélgica",
+      "Alemanha",
+      "Egito",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Miroslav Klose?",
+    "answer": "Alemanha",
+    "options": [
+      "Croácia",
+      "Bélgica",
+      "Portugal",
+      "Alemanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Miroslav Klose?",
+    "answer": "Alemanha",
+    "options": [
+      "Brasil",
+      "Alemanha",
+      "Argentina",
+      "Portugal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Kylian Mbappé?",
+    "answer": "França",
+    "options": [
+      "Alemanha",
+      "Argentina",
+      "França",
+      "Polônia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Kylian Mbappé?",
+    "answer": "França",
+    "options": [
+      "Polônia",
+      "Bélgica",
+      "Espanha",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Kylian Mbappé?",
+    "answer": "França",
+    "options": [
+      "Argentina",
+      "França",
+      "Alemanha",
+      "Bélgica"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Robert Lewandowski?",
+    "answer": "Polônia",
+    "options": [
+      "Espanha",
+      "Argentina",
+      "Noruega",
+      "Polônia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Robert Lewandowski?",
+    "answer": "Polônia",
+    "options": [
+      "Espanha",
+      "Croácia",
+      "Bélgica",
+      "Polônia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Robert Lewandowski?",
+    "answer": "Polônia",
+    "options": [
+      "Polônia",
+      "Croácia",
+      "Senegal",
+      "Noruega"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Mohamed Salah?",
+    "answer": "Egito",
+    "options": [
+      "Senegal",
+      "Brasil",
+      "Argentina",
+      "Egito"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Mohamed Salah?",
+    "answer": "Egito",
+    "options": [
+      "Egito",
+      "Portugal",
+      "Senegal",
+      "Alemanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Mohamed Salah?",
+    "answer": "Egito",
+    "options": [
+      "Bélgica",
+      "Egito",
+      "Polônia",
+      "Portugal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Kevin De Bruyne?",
+    "answer": "Bélgica",
+    "options": [
+      "Bélgica",
+      "Croácia",
+      "Alemanha",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Kevin De Bruyne?",
+    "answer": "Bélgica",
+    "options": [
+      "França",
+      "Espanha",
+      "Polônia",
+      "Bélgica"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Kevin De Bruyne?",
+    "answer": "Bélgica",
+    "options": [
+      "Portugal",
+      "Brasil",
+      "Bélgica",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Erling Haaland?",
+    "answer": "Noruega",
+    "options": [
+      "Senegal",
+      "Polônia",
+      "Alemanha",
+      "Noruega"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Erling Haaland?",
+    "answer": "Noruega",
+    "options": [
+      "Brasil",
+      "Egito",
+      "Noruega",
+      "Bélgica"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Erling Haaland?",
+    "answer": "Noruega",
+    "options": [
+      "Egito",
+      "Bélgica",
+      "Noruega",
+      "Senegal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Karim Benzema?",
+    "answer": "França",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "França",
+      "Bélgica"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Karim Benzema?",
+    "answer": "França",
+    "options": [
+      "Argentina",
+      "Senegal",
+      "Espanha",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Karim Benzema?",
+    "answer": "França",
+    "options": [
+      "França",
+      "Alemanha",
+      "Senegal",
+      "Egito"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "De qual país é o jogador Sadio Mané?",
+    "answer": "Senegal",
+    "options": [
+      "Senegal",
+      "Brasil",
+      "Alemanha",
+      "Portugal"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção nacional representa Sadio Mané?",
+    "answer": "Senegal",
+    "options": [
+      "Noruega",
+      "Senegal",
+      "Polônia",
+      "Croácia"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual nacionalidade futebolística está associada a Sadio Mané?",
+    "answer": "Senegal",
+    "options": [
+      "Polônia",
+      "Senegal",
+      "Portugal",
+      "Alemanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1930?",
+    "answer": "Uruguai",
+    "options": [
+      "Itália",
+      "Argentina",
+      "Uruguai",
+      "Alemanha"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1930?",
+    "answer": "Uruguai",
+    "options": [
+      "Inglaterra",
+      "Uruguai",
+      "Alemanha Ocidental",
+      "Argentina"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1930?",
+    "answer": "Uruguai",
+    "options": [
+      "Uruguai",
+      "Itália",
+      "Argentina",
+      "Inglaterra"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1958?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "Alemanha",
+      "Alemanha Ocidental",
+      "Espanha"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1958?",
+    "answer": "Brasil",
+    "options": [
+      "Espanha",
+      "Brasil",
+      "Uruguai",
+      "Alemanha Ocidental"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1962?",
+    "answer": "Brasil",
+    "options": [
+      "Alemanha",
+      "França",
+      "Espanha",
+      "Brasil"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1962?",
+    "answer": "Brasil",
+    "options": [
+      "Uruguai",
+      "Inglaterra",
+      "Itália",
+      "Brasil"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1966?",
+    "answer": "Inglaterra",
+    "options": [
+      "Itália",
+      "Argentina",
+      "Inglaterra",
+      "Uruguai"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1966?",
+    "answer": "Inglaterra",
+    "options": [
+      "Alemanha",
+      "Espanha",
+      "França",
+      "Inglaterra"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1970?",
+    "answer": "Brasil",
+    "options": [
+      "Uruguai",
+      "Espanha",
+      "Brasil",
+      "Itália"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1970?",
+    "answer": "Brasil",
+    "options": [
+      "Argentina",
+      "Alemanha Ocidental",
+      "Brasil",
+      "Uruguai"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1974?",
+    "answer": "Alemanha Ocidental",
+    "options": [
+      "Alemanha Ocidental",
+      "França",
+      "Itália",
+      "Brasil"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1974?",
+    "answer": "Alemanha Ocidental",
+    "options": [
+      "França",
+      "Alemanha Ocidental",
+      "Alemanha",
+      "Inglaterra"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1974?",
+    "answer": "Alemanha Ocidental",
+    "options": [
+      "Uruguai",
+      "Alemanha",
+      "Espanha",
+      "Alemanha Ocidental"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual seleção venceu a Copa do Mundo de 1978?",
+    "answer": "Argentina",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "Alemanha Ocidental",
+      "Itália"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1978?",
+    "answer": "Argentina",
+    "options": [
+      "Inglaterra",
+      "Itália",
+      "Espanha",
+      "Argentina"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1978?",
+    "answer": "Argentina",
+    "options": [
+      "Inglaterra",
+      "Argentina",
+      "Itália",
+      "Alemanha"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1982?",
+    "answer": "Itália",
+    "options": [
+      "Itália",
+      "França",
+      "Alemanha",
+      "Uruguai"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1982?",
+    "answer": "Itália",
+    "options": [
+      "Alemanha",
+      "Uruguai",
+      "Itália",
+      "Inglaterra"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1986?",
+    "answer": "Argentina",
+    "options": [
+      "Espanha",
+      "Argentina",
+      "Uruguai",
+      "França"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1986?",
+    "answer": "Argentina",
+    "options": [
+      "Brasil",
+      "França",
+      "Espanha",
+      "Argentina"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1990?",
+    "answer": "Alemanha",
+    "options": [
+      "Uruguai",
+      "Alemanha",
+      "Argentina",
+      "França"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1990?",
+    "answer": "Alemanha",
+    "options": [
+      "Argentina",
+      "Uruguai",
+      "Alemanha Ocidental",
+      "Alemanha"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1994?",
+    "answer": "Brasil",
+    "options": [
+      "Espanha",
+      "Brasil",
+      "Alemanha",
+      "Alemanha Ocidental"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1994?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "Alemanha Ocidental",
+      "Uruguai",
+      "Alemanha"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 1998?",
+    "answer": "França",
+    "options": [
+      "França",
+      "Inglaterra",
+      "Brasil",
+      "Alemanha"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 1998?",
+    "answer": "França",
+    "options": [
+      "França",
+      "Alemanha Ocidental",
+      "Alemanha",
+      "Uruguai"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 2002?",
+    "answer": "Brasil",
+    "options": [
+      "Espanha",
+      "Argentina",
+      "Uruguai",
+      "Brasil"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 2002?",
+    "answer": "Brasil",
+    "options": [
+      "Espanha",
+      "Itália",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 2006?",
+    "answer": "Itália",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "Alemanha",
+      "Itália"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 2006?",
+    "answer": "Itália",
+    "options": [
+      "Brasil",
+      "Itália",
+      "Inglaterra",
+      "Espanha"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 2010?",
+    "answer": "Espanha",
+    "options": [
+      "Argentina",
+      "Espanha",
+      "Alemanha",
+      "Inglaterra"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 2010?",
+    "answer": "Espanha",
+    "options": [
+      "Espanha",
+      "Uruguai",
+      "Alemanha Ocidental",
+      "Inglaterra"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 2014?",
+    "answer": "Alemanha",
+    "options": [
+      "Inglaterra",
+      "Uruguai",
+      "Alemanha",
+      "Alemanha Ocidental"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 2014?",
+    "answer": "Alemanha",
+    "options": [
+      "Inglaterra",
+      "Alemanha",
+      "Itália",
+      "Alemanha Ocidental"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 2018?",
+    "answer": "França",
+    "options": [
+      "Inglaterra",
+      "França",
+      "Alemanha",
+      "Espanha"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 2018?",
+    "answer": "França",
+    "options": [
+      "França",
+      "Alemanha",
+      "Argentina",
+      "Inglaterra"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Quem foi a campeã da Copa do Mundo de 2022?",
+    "answer": "Argentina",
+    "options": [
+      "Argentina",
+      "França",
+      "Brasil",
+      "Itália"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual país levantou a taça da Copa do Mundo de 2022?",
+    "answer": "Argentina",
+    "options": [
+      "Argentina",
+      "Uruguai",
+      "Inglaterra",
+      "Alemanha Ocidental"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Qual jogador é conhecido como Rei do Futebol?",
+    "answer": "Pelé",
+    "options": [
+      "Maradona",
+      "Pelé",
+      "Zico",
+      "Ronaldo Nazário"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual jogador é conhecido como Fenômeno?",
+    "answer": "Ronaldo Nazário",
+    "options": [
+      "Ronaldinho",
+      "Kaká",
+      "Ronaldo Nazário",
+      "Romário"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual argentino é associado à conquista da Copa de 1986?",
+    "answer": "Diego Maradona",
+    "options": [
+      "Batistuta",
+      "Di María",
+      "Diego Maradona",
+      "Lionel Messi"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual brasileiro é o único jogador a ter vencido três Copas do Mundo?",
+    "answer": "Pelé",
+    "options": [
+      "Garrincha",
+      "Pelé",
+      "Ronaldo Nazário",
+      "Cafu"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual jogador é o maior artilheiro histórico da Copa do Mundo masculina?",
+    "answer": "Miroslav Klose",
+    "options": [
+      "Pelé",
+      "Lionel Messi",
+      "Miroslav Klose",
+      "Ronaldo Nazário"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual clube espanhol é conhecido como Real Madrid?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Valencia",
+      "Sevilla",
+      "Barcelona"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual clube inglês joga em Anfield?",
+    "answer": "Liverpool",
+    "options": [
+      "Everton",
+      "Arsenal",
+      "Chelsea",
+      "Liverpool"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual clube inglês joga em Old Trafford?",
+    "answer": "Manchester United",
+    "options": [
+      "Liverpool",
+      "Manchester United",
+      "Chelsea",
+      "Manchester City"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual clube inglês joga no Etihad Stadium?",
+    "answer": "Manchester City",
+    "options": [
+      "Tottenham",
+      "Arsenal",
+      "Manchester City",
+      "Manchester United"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual clube alemão joga na Allianz Arena?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Bayer Leverkusen",
+      "Bayern de Munique",
+      "RB Leipzig",
+      "Borussia Dortmund"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual clube italiano é de Turim?",
+    "answer": "Juventus",
+    "options": [
+      "Juventus",
+      "Roma",
+      "Inter",
+      "Milan"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual clube francês joga no Parc des Princes?",
+    "answer": "Paris Saint-Germain",
+    "options": [
+      "Lyon",
+      "Marseille",
+      "Monaco",
+      "Paris Saint-Germain"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Quantos minutos tem uma partida normal de futebol?",
+    "answer": "90",
+    "options": [
+      "120",
+      "80",
+      "90",
+      "100"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Quantos jogadores uma equipe coloca em campo no início de uma partida?",
+    "answer": "11",
+    "options": [
+      "11",
+      "12",
+      "9",
+      "10"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual posição é tradicionalmente a única autorizada a usar as mãos dentro da própria área?",
+    "answer": "Goleiro",
+    "options": [
+      "Volante",
+      "Zagueiro",
+      "Atacante",
+      "Goleiro"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual cartão representa expulsão?",
+    "answer": "Vermelho",
+    "options": [
+      "Vermelho",
+      "Azul",
+      "Amarelo",
+      "Verde"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual cartão representa advertência?",
+    "answer": "Amarelo",
+    "options": [
+      "Amarelo",
+      "Azul",
+      "Branco",
+      "Vermelho"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Como é chamada a cobrança feita do canto do campo?",
+    "answer": "Escanteio",
+    "options": [
+      "Escanteio",
+      "Pênalti",
+      "Tiro de meta",
+      "Lateral"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Como é chamada a cobrança de 11 metros?",
+    "answer": "Pênalti",
+    "options": [
+      "Tiro de meta",
+      "Lateral",
+      "Escanteio",
+      "Pênalti"
+    ],
+    "category": "Futebol"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Lionel Messi?",
+    "answer": "Barcelona",
+    "options": [
+      "Manchester City",
+      "Barcelona",
+      "Santos",
+      "Arsenal"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Lionel Messi?",
+    "answer": "Barcelona",
+    "options": [
+      "Bayern de Munique",
+      "Barcelona",
+      "Manchester City",
+      "Santos"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Cristiano Ronaldo?",
+    "answer": "Real Madrid",
+    "options": [
+      "Manchester City",
+      "Real Madrid",
+      "Arsenal",
+      "Santos"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Cristiano Ronaldo?",
+    "answer": "Real Madrid",
+    "options": [
+      "Arsenal",
+      "Santos",
+      "Liverpool",
+      "Real Madrid"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Neymar?",
+    "answer": "Santos",
+    "options": [
+      "Arsenal",
+      "Santos",
+      "Barcelona",
+      "Manchester City"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Neymar?",
+    "answer": "Santos",
+    "options": [
+      "Barcelona",
+      "Santos",
+      "AC Milan",
+      "Real Madrid"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Ronaldinho?",
+    "answer": "Barcelona",
+    "options": [
+      "Barcelona",
+      "Manchester City",
+      "Liverpool",
+      "AC Milan"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Ronaldinho?",
+    "answer": "Barcelona",
+    "options": [
+      "Santos",
+      "Liverpool",
+      "Manchester City",
+      "Barcelona"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Ronaldo Nazário?",
+    "answer": "Real Madrid",
+    "options": [
+      "AC Milan",
+      "Santos",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Ronaldo Nazário?",
+    "answer": "Real Madrid",
+    "options": [
+      "AC Milan",
+      "Real Madrid",
+      "Bayern de Munique",
+      "Barcelona"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Kaká?",
+    "answer": "AC Milan",
+    "options": [
+      "Liverpool",
+      "Bayern de Munique",
+      "Santos",
+      "AC Milan"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Kaká?",
+    "answer": "AC Milan",
+    "options": [
+      "AC Milan",
+      "Santos",
+      "Real Madrid",
+      "Manchester City"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Zinedine Zidane?",
+    "answer": "Real Madrid",
+    "options": [
+      "Manchester City",
+      "Bayern de Munique",
+      "Arsenal",
+      "Real Madrid"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Zinedine Zidane?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Bayern de Munique",
+      "Arsenal",
+      "AC Milan"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Thierry Henry?",
+    "answer": "Arsenal",
+    "options": [
+      "Arsenal",
+      "Manchester City",
+      "Real Madrid",
+      "Barcelona"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Thierry Henry?",
+    "answer": "Arsenal",
+    "options": [
+      "Barcelona",
+      "Arsenal",
+      "Bayern de Munique",
+      "Real Madrid"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Luka Modrić?",
+    "answer": "Real Madrid",
+    "options": [
+      "Bayern de Munique",
+      "Manchester City",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Luka Modrić?",
+    "answer": "Real Madrid",
+    "options": [
+      "Liverpool",
+      "Real Madrid",
+      "Bayern de Munique",
+      "Barcelona"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Robert Lewandowski?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Liverpool",
+      "Manchester City",
+      "Santos",
+      "Bayern de Munique"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Robert Lewandowski?",
+    "answer": "Bayern de Munique",
+    "options": [
+      "Barcelona",
+      "Liverpool",
+      "Bayern de Munique",
+      "Santos"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Mohamed Salah?",
+    "answer": "Liverpool",
+    "options": [
+      "Liverpool",
+      "Manchester City",
+      "AC Milan",
+      "Bayern de Munique"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Mohamed Salah?",
+    "answer": "Liverpool",
+    "options": [
+      "Santos",
+      "Arsenal",
+      "Liverpool",
+      "Bayern de Munique"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Kevin De Bruyne?",
+    "answer": "Manchester City",
+    "options": [
+      "Bayern de Munique",
+      "AC Milan",
+      "Manchester City",
+      "Liverpool"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Kevin De Bruyne?",
+    "answer": "Manchester City",
+    "options": [
+      "Real Madrid",
+      "Manchester City",
+      "Liverpool",
+      "Bayern de Munique"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Karim Benzema?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "Arsenal",
+      "Santos",
+      "Bayern de Munique"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Karim Benzema?",
+    "answer": "Real Madrid",
+    "options": [
+      "Manchester City",
+      "AC Milan",
+      "Liverpool",
+      "Real Madrid"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Sergio Ramos?",
+    "answer": "Real Madrid",
+    "options": [
+      "Real Madrid",
+      "AC Milan",
+      "Santos",
+      "Arsenal"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Sergio Ramos?",
+    "answer": "Real Madrid",
+    "options": [
+      "Manchester City",
+      "Barcelona",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Andrés Iniesta?",
+    "answer": "Barcelona",
+    "options": [
+      "Barcelona",
+      "Manchester City",
+      "Liverpool",
+      "AC Milan"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Andrés Iniesta?",
+    "answer": "Barcelona",
+    "options": [
+      "Barcelona",
+      "Real Madrid",
+      "Manchester City",
+      "Bayern de Munique"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual clube está entre os principais capítulos da carreira de Xavi?",
+    "answer": "Barcelona",
+    "options": [
+      "AC Milan",
+      "Barcelona",
+      "Real Madrid",
+      "Manchester City"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Qual destes clubes é diretamente associado a Xavi?",
+    "answer": "Barcelona",
+    "options": [
+      "Arsenal",
+      "Barcelona",
+      "AC Milan",
+      "Bayern de Munique"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Pergunta especial: De qual seleção nacional é o craque Neymar?",
+    "answer": "Brasil",
+    "options": [
+      "França",
+      "Argentina",
+      "Brasil"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Pergunta especial: Qual clube tem sua origem no país Brasil e é conhecido como Santos?",
+    "answer": "Santos",
+    "options": [
+      "Arsenal",
+      "Tottenham",
+      "Santos",
+      "AC Milan"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Pergunta especial: Qual seleção venceu a Copa do Mundo de 1986?",
+    "answer": "Argentina",
+    "options": [
+      "Argentina",
+      "Alemanha Ocidental",
+      "Brasil",
+      "França"
+    ],
+    "category": "História"
+  },
+  {
+    "question": "Pergunta especial: De qual seleção nacional é o craque Mbappé?",
+    "answer": "França",
+    "options": [
+      "França",
+      "Brasil",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Pergunta especial: Qual clube está entre os principais capítulos da carreira de Ronaldo Nazário?",
+    "answer": "Real Madrid",
+    "options": [
+      "Liverpool",
+      "Real Madrid",
+      "AC Milan",
+      "Santos"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Pergunta especial: Qual destes clubes foi um dos grandes destinos da carreira de Xavi?",
+    "answer": "Barcelona",
+    "options": [
+      "Barcelona",
+      "Juventus",
+      "Arsenal",
+      "Al Sadd"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Pergunta especial: Qual clube está diretamente associado à maior parte da carreira de elite de Ronaldinho?",
+    "answer": "Barcelona",
+    "options": [
+      "Chelsea",
+      "AC Milan",
+      "Barcelona",
+      "PSG"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Pergunta especial: De qual seleção nacional é o craque Ronaldinho?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "França",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Pergunta especial: Quem foi a campeã da Copa do Mundo de 1974?",
+    "answer": "Alemanha Ocidental",
+    "options": [
+      "Alemanha",
+      "Inglaterra",
+      "França",
+      "Alemanha Ocidental"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Pergunta especial: Qual jogador é conhecido pelo apelido 'Fenômeno'?",
+    "answer": "Ronaldo Nazário",
+    "options": [
+      "Ronaldo Nazário",
+      "Ronaldinho",
+      "Romário",
+      "Kaká"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Pergunta especial: Qual cidade é associada ao clube Arsenal?",
+    "answer": "Londres",
+    "options": [
+      "Londres",
+      "Paris",
+      "Madri"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Pergunta especial: De qual país é o jogador Thierry Henry?",
+    "answer": "França",
+    "options": [
+      "Croácia",
+      "Bélgica",
+      "Noruega",
+      "França"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Pergunta especial: Qual clube está entre os principais capítulos da carreira de Mohamed Salah?",
+    "answer": "Liverpool",
+    "options": [
+      "Bayern de Munique",
+      "Manchester City",
+      "Liverpool",
+      "AC Milan"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Pergunta especial: Qual clube está diretamente associado à maior parte da carreira de elite de Mohamed Salah?",
+    "answer": "Liverpool",
+    "options": [
+      "Chelsea",
+      "Liverpool",
+      "PSG"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Pergunta especial: Qual cidade é associada ao clube Real Madrid?",
+    "answer": "Madri",
+    "options": [
+      "Paris",
+      "Londres",
+      "Madri"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Pergunta especial: Em qual clube Sadio Mané jogou antes do Liverpool?",
+    "answer": "Southampton",
+    "options": [
+      "Southampton",
+      "Leicester City",
+      "Chelsea",
+      "West Ham"
+    ],
+    "category": "Carreira"
+  },
+  {
+    "question": "Pergunta especial: Em qual país joga o clube Porto?",
+    "answer": "Portugal",
+    "options": [
+      "Portugal",
+      "França",
+      "Brasil",
+      "Argentina"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Pergunta especial: Qual cidade é associada ao clube Paris Saint-Germain?",
+    "answer": "Paris",
+    "options": [
+      "Madri",
+      "Londres",
+      "Paris"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Pergunta especial: De qual seleção nacional é o craque Kaká?",
+    "answer": "Brasil",
+    "options": [
+      "Brasil",
+      "França",
+      "Argentina"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Pergunta especial: De qual país é o jogador Xavi?",
+    "answer": "Espanha",
+    "options": [
+      "Senegal",
+      "Egito",
+      "Alemanha",
+      "Espanha"
+    ],
+    "category": "Jogadores"
+  },
+  {
+    "question": "Pergunta especial: Quem foi a campeã da Copa do Mundo de 1990?",
+    "answer": "Alemanha",
+    "options": [
+      "Alemanha",
+      "Uruguai",
+      "Argentina",
+      "França"
+    ],
+    "category": "Copa do Mundo"
+  },
+  {
+    "question": "Pergunta especial: Qual seleção é conhecida como Les Bleus?",
+    "answer": "França",
+    "options": [
+      "Croácia",
+      "Bélgica",
+      "França",
+      "Suíça"
+    ],
+    "category": "Clubes"
+  },
+  {
+    "question": "Pergunta especial: Em qual país joga o clube Bayern de Munique?",
+    "answer": "Alemanha",
+    "options": [
+      "Brasil",
+      "Alemanha",
+      "Argentina",
+      "França"
+    ],
+    "category": "Clubes"
+  }
+]
